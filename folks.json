@@ -4,20 +4,14 @@
         "email": "sarvesh.perumal@kalvium.community",
         "company": "Lowe's",
         "keyTasks": [
-            "Extension Development, API Integration.",
-            "Run Test Pipeline, Write Documentation.",
-            "Raise new MR, Review MR.",
-            "Extension Development, Run Test Pipeline.",
-            "Read Cortex Docs, Write Documentation.",
-            "Fix Bugs and push the changes in new branch."
+            "Developed and integrated extensions with APIs.",
+            "Executed test pipelines and documented findings.",
+            "Identified and fixed bugs, pushing changes in a new branch."
         ],
         "meetingHighlights": [
-            "MR Reviewed, Code Reviewed.",
-            "New Extension Overview, Extension API Integration.",
-            "Ran Test Pipeline and discussed the results.",
-            "Discussed Extension Scripts.",
-            "Trigger decorator overview, Job decorator Overview.",
-            "Studio Extension Overview, Extension API Integration."
+            "Reviewed and discussed merge requests and code quality.",
+            "Explored new extension features and API integrations.",
+            "Planned the roadmap for upcoming extension features."
         ]
     }
 ]
